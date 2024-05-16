@@ -1,12 +1,7 @@
 # Thyroid-Cancer-Recurrence-Prediction-A-Machine-Learning-Approach
 Thyroid cancer recurrence poses significant challenges in clinical management and patient care. Leveraging machine learning techniques, this project aims to develop predictive models for thyroid cancer recurrence based on clinicopathologic features. By analyzing a dataset collected over a span of 15 years, encompassing various attributes such as patient demographics, medical history, tumor characteristics, and treatment response, this study explores the potential of machine learning in improving recurrence prediction accuracy.
 
-
-
-
-
-![image](https://github.com/Pavankumarshridhar31/Thyroid-Cancer-Recurrence-Prediction-A-Machine-Learning-Approach/assets/154114014/d956d177-cacc-4cd4-94d4-984b1c962c65)
-
+![image](https://github.com/Pavankumarshridhar31/Thyroid-Cancer-Recurrence-Prediction-A-Machine-Learning-Approach/assets/154114014/cdd09afb-a041-4a76-a6ac-33fd68d2582c)
 
 
 
